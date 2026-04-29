@@ -54,9 +54,4 @@ http://127.0.0.1:5000/
 
 
 
-https://github.com/user-attachments/assets/677c82a4-e88e-420b-9e99-2054f676aefb
-
-
-
-
 
